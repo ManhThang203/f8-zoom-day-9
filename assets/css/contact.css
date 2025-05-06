@@ -242,7 +242,10 @@ h1.heading{
     width: 10px;
     height: 10px;
     font-size: 3rem;
-    color: #fff;
+    color: #fff;    
+}
+.icon--top{
+    margin-top: 5px;
 }
 .contact__item span:first-child{
     display: flex;
